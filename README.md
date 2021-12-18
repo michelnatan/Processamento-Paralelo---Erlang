@@ -8,7 +8,7 @@ tempo entre 10 a 30 segundos para gerar energia suficiente, criar a partícula d
 água.
 
 
-ALGORITMO
+ALGORITMO:
 Para a solução do problema, desenvolvemos quatro módulos: main,
 hidrogênio, oxigênio e buffer.
 Módulo main: Responsável por executar os processos e armazenar seus
@@ -84,7 +84,7 @@ Imagem 06 - Módulo buffer 3
 ![image](https://user-images.githubusercontent.com/63029905/146653772-719eeef7-7fa0-4161-b4e1-3ae828f7b540.png)
 
 
-CÓDIGO FONTE
+CÓDIGO FONTE:
 Para executar a função, basta acessar a página onde está salvo o arquivo atráves do emulador do Erlang,
 compilar os 4 módulos com a função c(modulo). Após isso, acessar a função main e
 rodar a função “start”, main(start).
