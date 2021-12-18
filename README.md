@@ -15,6 +15,7 @@ Módulo main: Responsável por executar os processos e armazenar seus
 PID’s em variáveis para utilizar como parâmetro.
 
 Imagem 01 - Módulo main
+
 ![image](https://user-images.githubusercontent.com/63029905/146653734-581a055f-15dc-4be6-bb30-b854cf5bdf8d.png)
 
 
